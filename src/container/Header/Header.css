@@ -11,3 +11,6 @@
     line-height: 117px;
     font-size: 54px;
 }
+.app__header-img img {
+    width: 80%;
+}
